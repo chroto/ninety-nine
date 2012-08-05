@@ -1,5 +1,5 @@
--- # Problem 12
--- Decode a run-length encoded list.
+-- # Problem 13
+-- Encode a run-length encoded list without creating sublists.
 import Test.HUnit
 import Data.List
 import Encoding
